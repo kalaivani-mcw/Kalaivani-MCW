@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalaivani-MCW
-- 👀 I’m interested in Deep Learning and Machine Learning.
+- 👀 I’m interested in Deep Learning, NLP - RAG models, ML - Prediction models, NN stack - low-level and high-level Kernel layer.
 - 💻 I develop fast-performing operators for AI Accelerators and NPUs and extended datatype support
 - 🌱 I’ve practiced OpenCL, Kernel Optimization, Neural Networks libraries.
 - 💞️ I’m looking to collaborate on Kernel development for Neural network based libraries...
